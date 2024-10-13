@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ### 📈 Most used languages
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lachimex"/>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/lachimex?cardType=level&theme=github-dark&preferLogin=false)](https://git.io/awesome-stats-card)
